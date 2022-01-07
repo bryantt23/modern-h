@@ -1,0 +1,19 @@
+Trello Clone
+
+
+
+Assume you're joining a new team and your team has already done a breakdown; this project is ready to be worked on. Use this mockup as inspiration, but there is some flexibility for implementation, both in terms of styling and in terms of how you achieve the functionality requested in the spec. 
+
+
+
+Mockup
+
+https://miro.com/app/board/uXjVOdzd7SU=/
+
+
+
+Acceptance Criteria
+
+A board exists with at least 3 columns ('Todo', 'In Progress', and 'Complete')
+A user can add cards that have at least one property (description)
+A user can reorder cards within a column
